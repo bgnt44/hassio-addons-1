@@ -7,7 +7,7 @@
   "url": "https://github.com/bgnt44/hassio-addons-1/tree/master/tensorflow",
   "startup": "once",
   "boot": "manual",
-  "image": "bgnt44/{arch}-addon-tensorflow",
+  "image": "bgnt44/{arch}-addon-tensorflow2",
   "map": ["config:rw"],
   "options": {},
   "schema": {}
